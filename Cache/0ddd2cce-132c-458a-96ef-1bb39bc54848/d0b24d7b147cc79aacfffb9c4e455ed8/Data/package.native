@@ -1,0 +1,22 @@
+- !<NativePackageDescriptor/437b7116-cb57-448a-a7a4-6d1605737a5d>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 7
+    patch: 2
+    build: 25030805
+    type: Unset
+  Description: ""
+  SvgIcon: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 55
+  ExportUid: 46d32fe9-975f-4e11-8656-4d435f5ae183
+  ComponentUid: 8522c392-ad9b-448e-a19f-939a75c94436
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  coreVersion: 301
+  clientVersion: 13.3000002
